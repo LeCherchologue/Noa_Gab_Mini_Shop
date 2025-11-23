@@ -1,0 +1,7 @@
+{
+  "name": "AppMobileYamsClient",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
